@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://mental-health-score-ml-project-1-60i2.onrender.com/";
 const PREDICT_URL = `${API_BASE}/predict`;
 const MAX_SCORE = 10;
 
